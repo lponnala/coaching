@@ -1,0 +1,52 @@
+## TEST 2
+
+[1] (from 5.5)
+Does this equation have no solution, one solution, or infinitely many solutions?
+(1/3)(9x + 5) = 3x + 5/3
+
+infinitely many solutions (same line)
+
+[2] (from 5.5)
+Solve this equation:
+|3x + 5| = |-3x - 1|
+
+6x = -6 => x = -1
+no solution
+
+[3] (from 5.6)
+A student takes 4 minutes to solve a math problem, and 3 minutes to
+answer a science question. In 35 minutes, can the student solve
+6 math problems and answer 3 science questions?
+
+Yes
+
+[4] (from 5.6)
+Graph this inequality:
+y > -2x -4
+
+area above the line connecting points (0,-4) and (-2,0)
+
+[5] (from 5.6)
+Write an inequality that represents this graph:
+[exercise 38]
+
+y <= 3x - 3
+
+[6] (from 5.6)
+Draw the region represented by the following information:
+* The points (2,5) and (-3,-5) lie on the boundary line.
+* The points (6,5) and (-2,-3) are solutions of the inequality.
+
+[7] (from 5.7)
+Is the ordered pair (4,-3) a solution of this system of inequalities:
+y <= -x + 1
+y <= 5x - 2
+
+Yes
+
+[8] (from 5.7)
+Write a system of linear inequalities represented by this graph:
+[exercise 23]
+
+y >= (2/3)x - 2
+y >= -3x + 2

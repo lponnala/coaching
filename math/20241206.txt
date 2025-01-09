@@ -1,0 +1,85 @@
+
+2y + x = -4
+y - x = -5
+
+x = 2
+y = -3
+
+==========
+
+y = x - 4
+-2x + y = 18
+
+-2x + x - 4 = 18
+x = -22
+y = -26
+
+==========
+
+Neysa's school serves pizza and soup for lunch, and each student can take any quantity of each.
+Neysa takes 10 minutes to eat a slice of pizza, and 4 minutes to finish a bowl of soup. She picked
+3 items in total, and finished her lunch today in 24 minutes exactly. 
+
+How many slices of pizza and how many bowls of soup did she eat?
+
+x = number of slices of pizza she took
+y = number of bowls of soup she took
+
+x + y = 3
+10x + 4y = 24
+
+x = 2
+y = 1
+
+===============
+
+x = number of touchdowns
+y = number of field goals
+
+7x + 3y = 26
+x + y = 6
+
+-3x - 3y = -18
+
+4x = 8
+x = 2
+y = 4
+
+===============
+
+x = time I spend driving on highways (in hours)
+y = time I spend driving on regular roads (in hours)
+
+remember: distance = speed * time
+
+x + y = 3
+55x + 40y = 135
+
+multiply first eq by 55:
+
+55x + 55y = 165
+-55x - 40y = -135
+
+15y = 30
+y = 2
+x = 1
+
+===============
+
+y = 4x + 14
+y = 6x + 8
+
+-y = -6x - 8
+
+0 = -2x + 6
+2x = 6
+x = 3
+
+================
+
+3y = 12x + 42
+-2y = -12x - 16
+
+y = 26
+26 = 6x + 8  =>  x = (26 - 8)/6 = 18/6 = 3
+x = 3

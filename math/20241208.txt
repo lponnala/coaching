@@ -1,0 +1,49 @@
+
+Mike and Sarah collect rocks. Together they collected 50 rocks. Mike collected 10 more rocks than Sarah.
+How many rocks did each of them collect?
+
+
+A carpenter charges $15 per hour and a plumber charges $10 per hour.
+They work together to fix up a home in 12 hours. The total cost of the job was $135.
+How many hours did the carpenter work? How many hours did the plumber work?
+
+
+A store sells oranges and apples. Oranges cost $1 each and apples cost $2 each.
+On Sunday, 15 fruits were sold in total, and the store earned $25. How many of each type of fruit was sold?
+
+
+Anna volunteers at a pet shelter. They have cats and dogs. There are 36 pets in total at the shelter, and the ratio of dogs to cats is 4:5. How many cats are at the shelter?
+
+
+Mike and Sarah are going to a theme park. Mike’s ticket costs $40, and Sarah’s ticket costs $30. They also bought $20 worth of food. How much did they spend in total?
+
+
+A pizza restaurant charges $12 for a large pizza and $8 for a small pizza. If a customer buys 5 pizzas in total, and it costs $52, how many large pizzas did they buy?
+
+
+Molly is throwing a beach party. She still needs to buy beach towels and beach balls. Towels are $3 each and beachballs are $4 each. She bought 10 items in total and it cost $34. How many beach balls did she get?
+
+
+========================================
+SOLUTIONS
+
+x + y = 50
+x = y + 10
+
+x = 30, y = 20
+
+----------
+
+15x + 10y = 135
+x + y = 12
+
+x = 3, y = 9
+
+----------
+
+x + y = 15
+x + 2y = 25
+
+x = 5, y = 10
+
+----------

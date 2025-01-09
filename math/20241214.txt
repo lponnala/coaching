@@ -1,0 +1,8 @@
+Section 5.6
+
+[33]
+0.75x + 2.25y <= 20
+
+[39]
+75x + 40y <= 1800
+constraints: x >= 0, y >= 0 (since the number of boxes must be positive)
